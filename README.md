@@ -49,7 +49,7 @@ This Python script performs Primary Colors Detection in an image using KMeans cl
 
 ## Screenshots
 
-![Screenshot](/path/to/screenshot.png)
+![Screenshot](https://app.gemoo.com/share/image-annotation/589624525590589440?codeId=DW2XV44qblgmg&origin=imageurlgenerator)
 
 
 
